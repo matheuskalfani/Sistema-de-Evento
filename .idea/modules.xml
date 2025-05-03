@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SistemaDeEventon.iml" filepath="$PROJECT_DIR$/SistemaDeEventon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaDeEvento.iml" filepath="$PROJECT_DIR$/SistemaDeEvento.iml" />
     </modules>
   </component>
 </project>
